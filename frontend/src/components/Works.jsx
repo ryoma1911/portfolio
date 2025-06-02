@@ -14,7 +14,7 @@ const works = [
     {
       title: 'ポートフォリオサイト',
       description: 'Reactを使用し、作成してみました。成果物をGithubに格納しています',
-      github: 'https://github.com/your-username/cheer-song-app',
+      github: 'https://github.com/ryoma1911/portfolio',
     },
 ];
 
