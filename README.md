@@ -1,6 +1,6 @@
 # Ryoma Abe - Portfolio
 
-![Portfolio Screenshot](./public/ogp.png) <!-- 適宜画像パスを修正 -->
+## リンク
 
 ## 概要
 
